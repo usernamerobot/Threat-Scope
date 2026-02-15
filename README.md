@@ -1,20 +1,6 @@
 # Threat-Scope
 A real time network monitor that tries to detect cyber threats… sometimes
 
- _______ .-. .-.,---.    ,---.    .--.  _______ 
-|__   __|| | | || .-.\   | .-'   / /\ \|__   __|
-  )| |   | `-' || `-'/   | `-.  / /__\ \ )| |   
- (_) |   | .-. ||   (    | .-'  |  __  |(_) |   
-   | |   | | |)|| |\ \   |  `--.| |  |)|  | |   
-   `-'   /(  (_)|_| \)\  /( __.'|_|  (_)  `-'   
-        (__)        (__)(__)                    
-   .---.   ,--,  .---.  ,---.  ,---.            
-  ( .-._).' .') / .-. ) | .-.\ | .-'            
- (_) \   |  |(_)| | |(_)| |-' )| `-.            
- _  \ \  \  \   | | | | | |--' | .-'            
-( `-'  )  \  `-.\ `-' / | |    |  `--.          
- `----'    \____\)---'  /(     /( __.'          
-                (_)    (__)   (__)              
 ThreatScope is a Python program that watches your network and attempts to spot sketchy activity.
 
 It can show things like:
