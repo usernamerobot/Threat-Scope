@@ -1,7 +1,7 @@
 # Threat-Scope
 A real time network monitor that tries to detect cyber threats… sometimes
 
-ThreatScope is a Python program that watches your network and attempts to spot sketchy activity.
+Threat Scope is a Python program that watches your network and attempts to spot sketchy activity.
 
 It can show things like:
 
